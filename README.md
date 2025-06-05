@@ -1,7 +1,6 @@
 # InkBar 🎨🍸
 
-**Live Demo:** _[Coming soon]_  
-**GitHub Pages:** _https://your-username.github.io/inkbar/_
+**GitHub Pages:** [_https://fenastie.github.io/inkbar/_](https://fenasti.github.io/ink-bar/)
 
 Welcome to **InkBar**, a stylish, scrollable single-page website concept combining a bold tattoo studio with a vibrant craft cocktail bar. This project blends artistry and code, providing an immersive UI experience with smooth scrolling, responsive design, and dark-themed aesthetics.
 
@@ -48,22 +47,9 @@ inkbar/
 
 ## 🚀 Getting Started
 
-To run this project locally:
-
-bash
-git clone https://github.com/fenasti/inkbar.git
+git clone https://github.com/fenasti/ink-bar.git
 cd inkbar
-open index.html
-
-To deploy:
-
-Push to GitHub
-
-Go to Settings > Pages
-
-Select branch: main, folder: /root
-
-Visit: https://fenasti.github.io/inkbar/
+open index.html   # or use a Live Server extension if using VS Code
 
 ## 🧠 Inspiration & Credit
 This project was inspired by the "Build 15 JavaScript Projects" course by freeCodeCamp.org.
