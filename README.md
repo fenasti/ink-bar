@@ -1,4 +1,4 @@
-# InkBar 🎨🍸
+# InkBar 
 
 **GitHub Pages:** [_https://fenastie.github.io/inkbar/_](https://fenasti.github.io/ink-bar/)
 
