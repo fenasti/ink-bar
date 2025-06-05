@@ -33,18 +33,6 @@ InkBar is a frontend-only JavaScript project developed as a creative twist on a 
 
 ---
 
-## 📁 Project Structure
-
-inkbar/
-│
-├── index.html # Main page structure
-├── styles.css # Custom and Bootstrap styling
-├── app.js # JS functionality for scrolling/nav
-├── /images # Hero and section visuals
-└── /logo.png # Brand logo
-
----
-
 ## 🚀 Getting Started
 
 git clone https://github.com/fenasti/ink-bar.git
